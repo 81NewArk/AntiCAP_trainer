@@ -1,0 +1,82 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "已",
+      "points": [
+        [
+          13.146067415730325,
+          20.009363295880146
+        ],
+        [
+          47.790262172284635,
+          51.470037453183515
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "走",
+      "points": [
+        [
+          69.32584269662921,
+          20.38389513108614
+        ],
+        [
+          101.16104868913857,
+          52.59363295880149
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "天",
+      "points": [
+        [
+          165.39325842696627,
+          65.88951310861422
+        ],
+        [
+          196.66666666666666,
+          100.15917602996254
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "度",
+      "points": [
+        [
+          215.20599250936328,
+          69.63483146067415
+        ],
+        [
+          250.78651685393257,
+          103.90449438202246
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\image_sets\\2b210c11f20669435255f6e1ebebba64.png",
+  "imageData": null,
+  "imageHeight": 155,
+  "imageWidth": 310
+}
