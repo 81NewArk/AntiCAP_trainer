@@ -86,7 +86,7 @@ AntiCAP_trainer/                          # 主项目文件夹
 
 Labelme标注方法
 
-<img src=Docs/logo.jpg >
+<img src=Docs/Text_Click_Lambel.png >
 
 
 
