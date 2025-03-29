@@ -87,20 +87,20 @@ AntiCAP_trainer/                          # 主项目文件夹
 
 # 🧰 使用方法
 <br>
-<br>
-<br>
+
 
 ## 一.目标检测
 
-<br>
-<br>
+### (1) labelme 标注方法
+
 <br>
 
-### (1) labelme 标注方法
 <img src=Docs/Text_Click_Lambel.png >
 
 
 ### (2) 数据集预处理
+
+<br>
 
 训练前,请确保以下文件夹存在并且为空
 
@@ -109,11 +109,14 @@ AntiCAP_trainer/                          # 主项目文件夹
 `Text_Click_CAPTCHA\Train_Sets\val\images\`    
 `Text_Click_CAPTCHA\Train_Sets\val\labels\` 
 
-labelme标注完成的 `.json` 和 `.jpg|.png|` 文件均存放于 `Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\` 目录
+labelme标注完成的 `.json` 和 `.jpg|.png` 文件均存放于 `Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\` 目录
 
 程序会自动划分训练集 验证集,和Yolo训练所需要的`.txt` 文件和训练格式
 
 ### (3) 训练分类检测
+
+<br>
+
 训练分类检测： `Text_Click_CAPTCHA_Trainer.py` 文件中有详细的训练参数注释，自行参考。
 
 模型输出目录: `Text_Click_CAPTCHA\Out_Model\` 
@@ -122,9 +125,9 @@ labelme标注完成的 `.json` 和 `.jpg|.png|` 文件均存放于 `Text_Click_C
 <br>
 <br>
 <br>
+
 ## 二. 孪生网络
-<br>
-<br>
+
 <br>
 
 todo
