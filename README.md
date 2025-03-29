@@ -42,6 +42,9 @@ cd AntiCAP_trainer
 
 pip install -r requirements.txt
 ```
+<br>
+<br>
+<br>
 
 ## 📁 目录结构及说明
 ```
@@ -78,14 +81,18 @@ AntiCAP_trainer/                          # 主项目文件夹
 ├── README.md                             # READNE.md
 └── requirements.txt                      # Python 依赖包列表文件
 ```
-
+<br>
+<br>
+<br>
 
 # 🧰 使用方法
-
-
-
+<br>
+<br>
+<br>
 ## 一.目标检测
-
+<br>
+<br>
+<br>
 ### (1) labelme 标注方法
 <img src=Docs/Text_Click_Lambel.png >
 
@@ -109,8 +116,13 @@ labelme标注完成的 `.json` 和 `.jpg|.png|` 文件均存放于 `Text_Click_C
 模型输出目录: `Text_Click_CAPTCHA\Out_Model\` 
 
 
-
+<br>
+<br>
+<br>
 ## 二. 孪生网络
+<br>
+<br>
+<br>
 
 todo
 
