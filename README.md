@@ -119,7 +119,7 @@ labelme标注完成的 `.json` 和 `.jpg|.png` 文件均存放于 `Text_Click_CA
 
 训练分类检测： `Text_Click_CAPTCHA_Trainer.py` 文件中有详细的训练参数注释，自行参考。
 
-模型输出目录: `Text_Click_CAPTCHA\Out_Model\` 
+模型输出目录:  `Text_Click_CAPTCHA\Out_Model\` 
 
 
 <br>
