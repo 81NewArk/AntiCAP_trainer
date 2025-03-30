@@ -136,7 +136,7 @@ Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\  # 存放 .json 和 .png|jpg
 
 <div align="center">
 
-<img src=Docs/QQ_Group.png alt="QQGroup">
+<img src=Docs/QQ_Group.png alt="QQGroup" width="200" height="200">
 
 </div>
 
