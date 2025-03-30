@@ -88,7 +88,7 @@ AntiCAP_trainer/                                        # 主目录
 
 <br>
 
-<img src=Docs/Text_Click_Lambel.png >
+<img src=Docs/Text_Click_Lambel.png  width="800" height="600">
 
 
 ### 训练集的预处理:
