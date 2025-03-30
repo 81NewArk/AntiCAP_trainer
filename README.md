@@ -101,30 +101,18 @@ AntiCAP_trainer/                          # 主项目文件夹
 
 <br>
 
-训练前,请确保以下文件夹存在并且为空。
 
 ```
-Text_Click_CAPTCHA\Train_Sets\train\images\
-Text_Click_CAPTCHA\Train_Sets\train\labels\ 
-Text_Click_CAPTCHA\Train_Sets\val\images\   
-Text_Click_CAPTCHA\Train_Sets\val\labels\
+Text_Click_CAPTCHA\Train_Sets\train\images\  # 训练前,请确保以下文件夹存在并且为空。
+Text_Click_CAPTCHA\Train_Sets\train\labels\  # 训练前,请确保以下文件夹存在并且为空。
+Text_Click_CAPTCHA\Train_Sets\val\images\    # 训练前,请确保以下文件夹存在并且为空。 
+Text_Click_CAPTCHA\Train_Sets\val\labels\    # 训练前,请确保以下文件夹存在并且为空。
+
+Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\  # 存放 .json 和 .png|jpg 
+# lamebelme标注的图片文件和对应的 .json 文件均存放于该目录
+# 程序会自动划分训练集和验证集
+
 ```
-
-
-`Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\:`
-
-
-该目录用于保存Lambelme标注的好的.json 和 .png|jpg 文件，程序会自动划分训练集和验证集。
-
-
-
-
-`Text_Click_CAPTCHA\Out_Model\:`
-
-
-模型输出目录
-
-
 
 
 <br>
