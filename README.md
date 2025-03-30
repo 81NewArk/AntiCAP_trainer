@@ -132,7 +132,7 @@ Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\  # 存放 .json 和 .png|jpg
 <br>
 
 
-# 🐧 交流群
+# 🐧 QQ交流群
 <br>
 
 <div align="center">
