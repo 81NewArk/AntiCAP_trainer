@@ -120,9 +120,15 @@ Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\  # 存放 .json 和 .png|jpg
 
 ## 2️⃣ 孪生网络模型训练
 
-### 图片相似度检测
-
 ### 文档待编写
+
+<br>
+<br>
+<br>
+
+## 3️⃣ 自动标注
+
+### 代码待编写
 
 <br>
 <br>
