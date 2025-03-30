@@ -15,9 +15,10 @@
 
 # 📄 AntiCAP_trainer 文档
 
+<strong>AntiCAP模型训练，N卡玩具，A卡的同志请稍息。</strong>
+
 请参阅下文了解快速安装和使用示例。有关训练、验证、预测和部署的全面指南.
 
-<b>AntiCAP模型训练，N卡玩具，A卡的同志请稍息。</b>
 
 </div>
 
