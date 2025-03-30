@@ -85,20 +85,20 @@ AntiCAP_trainer/                          # 主项目文件夹
 <br>
 <br>
 
+
 # 🧰 使用方法
 <br>
 
+## 一.目标分类检测模型训练
 
-## 一.目标分类检测
-
-### 1️⃣ labelme 标注方法  
+### 1️⃣ 采取Labelme标注
 
 <br>
 
 <img src=Docs/Text_Click_Lambel.png >
 
 
-### 2️⃣ 数据集预处理
+### 2️⃣ 训练集预处理
 
 <br>
 
@@ -121,20 +121,15 @@ labelme标注完成的 `.json` 和 `.jpg|.png` 文件均存放于 `Text_Click_CA
 
 模型输出目录:  `Text_Click_CAPTCHA\Out_Model\` 
 
-
 <br>
 <br>
 <br>
 
-## 二. 孪生网络
+## 二. 孪生网络模型训练
 
-<br>
-<br>
-<br>
+### 图片相似度检测
 
-图片相似度检测
-
-文档待编写
+### 文档待编写
 
 <br>
 <br>
