@@ -44,9 +44,7 @@ cd AntiCAP_trainer
 
 pip install -r requirements.txt
 ```
-<br>
-<br>
-<br>
+
 
 ## 📁 目录结构及说明
 ```
