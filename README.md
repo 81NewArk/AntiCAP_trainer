@@ -22,7 +22,7 @@
 <br>
 
 
-## 🌍开发环境
+## 🌍环境说明
 ```
 # python: 3.8
 
@@ -32,7 +32,7 @@
 ```
 
 
-## ⬇️ 安装
+## ⬇️ 安装说明
 ```
 git clone https://github.com/81NewArk/AntiCAP_trainer.git
 
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 ```
 
 
-## 📁 目录结构及说明
+## 📁 目录结构说明
 ```
 AntiCAP_trainer/                                        # 主目录
 │
