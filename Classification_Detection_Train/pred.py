@@ -3,11 +3,11 @@ from ultralytics import YOLO
 
 
 # 模型路径
-MODEL_PATH = r'C:\\Users\\75124\\Desktop\\AntiCAP_trainer\\Text_Click_CAPTCHA\\Out_Model\\my_first_model\\weights\\best.pt'
+MODEL_PATH = r'/Classification_Detection_Train\\Out_Model\\my_first_model\\weights\\best.pt'
 model = YOLO(MODEL_PATH)
 
 # 图片路径
-image_path = r'C:\Users\75124\Desktop\AntiCAP_trainer\Text_Click_CAPTCHA\Train_Sets\train\images\0a4dfed2b7c5ead2e6e3ec00d08a5487.jpg'
+image_path = r'/Classification_Detection_Train\Train_Sets\train\images\0a4dfed2b7c5ead2e6e3ec00d08a5487.jpg'
 
 # 使用YOLO模型进行推理
 results = model(image_path)
