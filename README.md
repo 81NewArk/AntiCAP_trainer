@@ -2,7 +2,7 @@
 
 # AntiCAP_trainer
 
-<img src=Docs/logo.jpg alt="logo" width="200" height="200">
+<img src=docs/logo.jpg alt="logo" width="200" height="200">
 </div>
 
 
@@ -88,7 +88,7 @@ AntiCAP_trainer/                                        # 主目录
 
 <br>
 
-<img src=Docs/Text_Click_Lambel.png  width="800" height="600">
+<img src=docs/Text_Click_Lambel.png  width="800" height="600">
 
 
 ### 训练集的预处理:
@@ -137,7 +137,7 @@ Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\  # 存放 .json 和 .png|jpg
 
 <div align="center">
 
-<img src=Docs/QQ_Group.png alt="QQGroup" width="200" height="200">
+<img src=docs/QQ_Group.png alt="QQGroup" width="200" height="200">
 
 </div>
 
@@ -151,8 +151,8 @@ Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\  # 存放 .json 和 .png|jpg
 
 <div align="center">
 
-<img src=Docs/Ali.png alt="Ali" width="200" height="200">
-<img src=Docs/Wx.png alt="Wx" width="200" height="200">
+<img src=docs/Ali.png alt="Ali" width="200" height="200">
+<img src=docs/Wx.png alt="Wx" width="200" height="200">
 
 </div>
 
