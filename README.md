@@ -145,6 +145,11 @@ Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\  # 存放 .json 和 .png|jpg
 <br>
 <br>
 
+# 🚬 请作者抽一包香香软软的利群
+<br>
+
+
+
 # 🫰 致谢
 <br>
 
