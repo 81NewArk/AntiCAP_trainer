@@ -188,16 +188,22 @@ Ddddocr的作者sml2h3无私的开源代码。项目初期，均参考于其框�
 <br>
 
 # 📚 参考文献
+<br>
 
 [1] Ultralytics. 2025.03.28 https://docs.ultralytics.com/modes/train/
 
+
 [2] Github. 2025.03.28 https://github.com/sml2h3
+
 
 [3] Github. 2025.03.28 https://github.com/2833844911/
 
+
 [4] Bilibili. 2025.03.28 https://space.bilibili.com/308704191
 
+
 [5] Bilibili. 2025.03.28 https://space.bilibili.com/472467171
+
 
 [6] YRL's Blog. 2025.03.28 https://blog.2zxz.com/archives/icondetection
 
