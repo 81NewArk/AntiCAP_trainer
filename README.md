@@ -158,7 +158,7 @@ Classification_Detection_Train/Out_Model                # 存放 .json 和 .png|
 <br>
 <br>
 
-# 🫰 致谢
+# 🫰 致谢名单
 <br>
 
 [1] Ddddocr作者 网名:sml2h3
