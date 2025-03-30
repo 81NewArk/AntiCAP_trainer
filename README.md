@@ -148,7 +148,16 @@ Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\  # 存放 .json 和 .png|jpg
 # 🚬 请作者抽一包香香软软的利群
 <br>
 
+<div align="center">
 
+<img src=Docs/Ali.png alt="Ali" width="200" height="200">
+<img src=Docs/Wx.png.png alt="Wx" width="200" height="200">
+
+</div>
+
+<br>
+<br>
+<br>
 
 # 🫰 致谢
 <br>
