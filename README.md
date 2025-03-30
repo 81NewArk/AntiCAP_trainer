@@ -89,7 +89,7 @@ AntiCAP_trainer/                          # 主项目文件夹
 <br>
 
 
-## 一.目标检测
+## 一.目标分类检测
 
 ### （1） labelme 标注方法
 
@@ -129,9 +129,16 @@ labelme标注完成的 `.json` 和 `.jpg|.png` 文件均存放于 `Text_Click_CA
 ## 二. 孪生网络
 
 <br>
+<br>
+<br>
+
+图片相似度检测
 
 文档待编写
 
+<br>
+<br>
+<br>
 
 
 # 🐧 交流群
