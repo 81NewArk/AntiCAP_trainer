@@ -114,7 +114,7 @@ Text_Click_CAPTCHA\Train_Sets\val\labels\
 `Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\:`  该目录用于保存Lambelme标注的好的.json 和 .png|jpg 文件，程序会自动划分训练集和验证集。
 
 
-`Text_Click_CAPTCHA\Out_Model\:`  用户模型输出目
+`Text_Click_CAPTCHA\Out_Model\:`  模型输出目录
 
 <br>
 <br>
