@@ -2,7 +2,7 @@
 
 # AntiCAP_trainer
 
-<img src=Docs/logo.jpg alt="logo" sizes="100px">
+<img src=Docs/logo.jpg alt="logo" width="200" height="200">
 </div>
 
 
