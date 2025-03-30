@@ -138,8 +138,11 @@ labelme标注完成的 `.json` 和 `.jpg|.png` 文件均存放于 `Text_Click_CA
 
 # 🐧 交流群
 
+<div align="center">
+
 <img src=Docs/QQ_Group.png alt="QQGroup">
 
+</div>
 
 
 <br>
