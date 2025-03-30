@@ -98,26 +98,24 @@ AntiCAP_trainer/                          # 主项目文件夹
 <img src=Docs/Text_Click_Lambel.png >
 
 
-### 训练集预的处理 
+`训练集的预处理:` 训练前,请确保以下文件夹存在并且为空。
 
 <br>
 
-训练前,请确保以下文件夹存在并且为空
+```
+Text_Click_CAPTCHA\Train_Sets\train\images\
+Text_Click_CAPTCHA\Train_Sets\train\labels\ 
+Text_Click_CAPTCHA\Train_Sets\val\images\   
+Text_Click_CAPTCHA\Train_Sets\val\labels\
+```
 
-`Text_Click_CAPTCHA\Train_Sets\train\images\`  
-`Text_Click_CAPTCHA\Train_Sets\train\labels\`  
-`Text_Click_CAPTCHA\Train_Sets\val\images\`    
-`Text_Click_CAPTCHA\Train_Sets\val\labels\` 
+labelme标注完成的 `.json` 和 `.jpg|.png` 文件
 
-labelme标注完成的 `.json` 和 `.jpg|.png` 文件均存放于 `Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\` 目录
+均存放于 `Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\` 目录
 
-程序会自动划分训练集 验证集,和Yolo训练所需要的`.txt` 文件和训练格式
+程序会自动划分训练集和验证集，并转换成Yolo训练所需的 `.txt`  文件格式。
 
-### 训练分类检测
-
-<br>
-
-训练分类检测： `Text_Click_CAPTCHA_Trainer.py` 文件中有详细的训练参数注释，自行参考。
+训练分类检测: `Text_Click_CAPTCHA_Trainer.py` 
 
 模型输出目录:  `Text_Click_CAPTCHA\Out_Model\` 
 
@@ -144,6 +142,12 @@ labelme标注完成的 `.json` 和 `.jpg|.png` 文件均存放于 `Text_Click_CA
 
 </div>
 
+
+<br>
+<br>
+<br>
+
+# 🫰 致谢
 
 <br>
 <br>
