@@ -89,16 +89,16 @@ AntiCAP_trainer/                          # 主项目文件夹
 # 🧰 使用方法
 <br>
 
-## 一.目标分类检测模型训练
+## 1️⃣ 目标分类检测模型训练
 
-### 1️⃣ 采取Labelme标注
+### 采取Labelme标注
 
 <br>
 
 <img src=Docs/Text_Click_Lambel.png >
 
 
-### 2️⃣ 训练集预处理
+### 训练集预的处理 
 
 <br>
 
@@ -113,7 +113,7 @@ labelme标注完成的 `.json` 和 `.jpg|.png` 文件均存放于 `Text_Click_CA
 
 程序会自动划分训练集 验证集,和Yolo训练所需要的`.txt` 文件和训练格式
 
-### 3️⃣ 训练分类检测
+### 训练分类检测
 
 <br>
 
@@ -125,7 +125,7 @@ labelme标注完成的 `.json` 和 `.jpg|.png` 文件均存放于 `Text_Click_CA
 <br>
 <br>
 
-## 二. 孪生网络模型训练
+## 2️⃣ 孪生网络模型训练
 
 ### 图片相似度检测
 
