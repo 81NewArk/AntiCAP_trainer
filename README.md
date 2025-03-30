@@ -151,7 +151,7 @@ Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\  # 存放 .json 和 .png|jpg
 <div align="center">
 
 <img src=Docs/Ali.png alt="Ali" width="200" height="200">
-<img src=Docs/Wx.png.png alt="Wx" width="200" height="200">
+<img src=Docs/Wx.png alt="Wx" width="200" height="200">
 
 </div>
 
