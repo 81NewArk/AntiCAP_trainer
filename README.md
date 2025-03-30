@@ -103,6 +103,7 @@ AntiCAP_trainer/                          # 主项目文件夹
 
 
 ```
+
 Text_Click_CAPTCHA\Train_Sets\train\images\  # 训练前,请确保以下文件夹存在并且为空。
 Text_Click_CAPTCHA\Train_Sets\train\labels\  # 训练前,请确保以下文件夹存在并且为空。
 Text_Click_CAPTCHA\Train_Sets\val\images\    # 训练前,请确保以下文件夹存在并且为空。 
