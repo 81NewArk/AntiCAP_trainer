@@ -44,38 +44,35 @@ pip install -r requirements.txt
 
 ## 📁 目录结构及说明
 ```
-AntiCAP_trainer/                          # 主项目文件夹
+AntiCAP_trainer/                                        # 主目录
 │
-├── Sequ_Click_CAPTCHA/                   # "Sequence Click CAPTCHA" 相关文件夹
-│   ├── pred.py                           # 用于预测
-│   ├── Train_Sets/                       # 包含训练数据集的文件夹
-│   │   ├── train/                        # 训练数据文件夹
-│   │   │   ├── 丁                        # 验证数据集中的 "丁" 文件夹或文件
-│   │   │   ├── 七                        # 验证数据集中的 "七" 文件夹或文件
-│   │   ├── val/                          # 验证数据文件夹
-│   │   │   ├── 丁                        # 验证数据集中的 "丁" 文件夹或文件
-│   │   │   ├── 七                        # 验证数据集中的 "七" 文件夹或文件
-│   │   │   └── LABELME_DATA              # Labelme注验的证集数据的 (.json文件和图片文件)
-│   ├── Out_Model/                        # 模型输出目录
-│   ├── Sequ_Click_CAPTCHA.py             # "Sequence Click CAPTCHA" 主要脚本
-│   └── vgg16-397923af.pth                # 预训练的 VGG16 模型权重文件 （没有自行下载）
+├── Classification_Detection_Train/                     # 分类检测训练
+│   ├── Out_Model/                                      # 训练后的模型输出
+│   ├── Train_Sets/                                     # 训练数据集
+│   │   ├── LABELME_DATA/                               # LabelMe格式的数据
+│   │   │   ├── 0a4dfed2b7c5ead2e6e3ec00d08a5487.jpg    # 示例图像
+│   │   │   ├── 0a4dfed2b7c5ead2e6e3ec00d08a5487.json   # 对应标注文件
+│   │   │   ├── 00ce2c178c4a4c845992aaa33f2ccb45.jpg    # 示例图像
+│   │   │   ├── 00ce2c178c4a4c845992aaa33f2ccb45.json   # 对应标注文件
+│   │   ├── train/                                      # 训练集
+│   │   │   ├── images/                                 # 训练图像
+│   │   │   ├── labels/                                 # 训练标签
+│   │   ├── val/                                        # 验证集
+│   │   │   ├── images/                                 # 验证图像
+│   │   │   ├── labels/                                 # 验证标签
+│   ├── Classification_Detection_Train.py               # 训练脚本
+│   ├── pred.py                                         # 预测脚本
+│   ├── yolo11n.pt                                      # 训练好的YOLO模型
 │
-├── Text_Click_CAPTCHA/                   # "Text Click CAPTCHA" 相关文件夹
-│   ├── Train_Sets/                       # "Text Click CAPTCHA" 训练数据集文件夹
-│   │   ├── train/                        # 训练数据集文件夹
-│   │   │   ├── images                    # 训练数据集图片文件夹
-│   │   │   ├── labels                    # 训练数据集标签文件夹
-│   │   ├── val/                          # 验证数据集文件夹
-│   │   │   ├── images                    # 验证数据集图片文件夹
-│   │   │   ├── labels                    # 验证数据集标签文件夹
-│   ├── Out_Model/                        # 模型输出结果文件夹
-│   ├── pred.py                           # 用于 "Text Click CAPTCHA" 的预测脚本
-│   ├── Text_Click_CAPTCHA_Trainer.py     # 用于训练 "Text Click CAPTCHA" 模型的脚本
-│   └── yolo11n.pt                        # 预训练的 YOLO 模型权重模型 (没有自行下载)
+├── Siamese_Network_Train/                              # 孪生网络训练
+│   ├── Out_Model/                                      # 训练后的模型输出
+│   ├── Train_Sets/                                     # 训练数据集
+│   ├── Siamese_Network_Train.py                        # 训练脚本
+│   ├── pred.py                                         # 预测脚本
+│   ├── vgg16-397923af.pth                              # 预训练VGG16模型
 │
-├── main.py                               # 项目主文件
-├── README.md                             # READNE.md
-└── requirements.txt                      # Python 依赖包列表文件
+├── main.py  # 主入口脚本
+
 ```
 <br>
 <br>
