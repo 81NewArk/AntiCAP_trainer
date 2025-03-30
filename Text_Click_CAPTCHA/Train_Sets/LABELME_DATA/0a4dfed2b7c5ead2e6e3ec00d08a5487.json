@@ -1,0 +1,82 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "桂",
+      "points": [
+        [
+          2.2325581395348877,
+          347.0387596899225
+        ],
+        [
+          28.589147286821685,
+          379.5968992248062
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "醛",
+      "points": [
+        [
+          28.589147286821685,
+          350.91472868217056
+        ],
+        [
+          63.47286821705427,
+          380.37209302325584
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "桂",
+      "points": [
+        [
+          230.13953488372096,
+          257.8914728682171
+        ],
+        [
+          299.906976744186,
+          329.984496124031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "醛",
+      "points": [
+        [
+          227.03875968992253,
+          177.2713178294574
+        ],
+        [
+          293.70542635658916,
+          240.8372093023256
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "0a4dfed2b7c5ead2e6e3ec00d08a5487.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344
+}

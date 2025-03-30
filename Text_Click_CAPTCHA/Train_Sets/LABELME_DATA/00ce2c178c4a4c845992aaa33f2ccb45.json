@@ -1,0 +1,154 @@
+{
+  "version": "5.5.0",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "玫",
+      "points": [
+        [
+          3.0077519379844944,
+          350.1395348837209
+        ],
+        [
+          29.36434108527135,
+          378.82170542635663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "瑰",
+      "points": [
+        [
+          29.36434108527135,
+          349.36434108527135
+        ],
+        [
+          61.14728682170545,
+          378.04651162790697
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "茄",
+      "points": [
+        [
+          61.14728682170545,
+          350.91472868217056
+        ],
+        [
+          88.27906976744185,
+          378.82170542635663
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "红",
+      "points": [
+        [
+          89.05426356589146,
+          350.1395348837209
+        ],
+        [
+          117.73643410852713,
+          378.04651162790697
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "玫",
+      "points": [
+        [
+          219.28682170542635,
+          49.36434108527132
+        ],
+        [
+          283.6279069767442,
+          116.031007751938
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "瑰",
+      "points": [
+        [
+          183.6279069767442,
+          128.43410852713177
+        ],
+        [
+          264.2480620155039,
+          196.65116279069767
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "茄",
+      "points": [
+        [
+          13.085271317829438,
+          70.29457364341084
+        ],
+        [
+          73.55038759689921,
+          138.51162790697677
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "红",
+      "points": [
+        [
+          3.782945736434101,
+          157.89147286821705
+        ],
+        [
+          68.12403100775197,
+          222.23255813953486
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "00ce2c178c4a4c845992aaa33f2ccb45.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344
+}

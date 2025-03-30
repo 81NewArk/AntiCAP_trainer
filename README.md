@@ -134,7 +134,13 @@ todo
 
 
 
+# 🐧 交流群
 
+<img src=Docs/QQ_Group.png alt="QQGroup">
+
+<br>
+<br>
+<br>
 
 # 📚 参考文献
 

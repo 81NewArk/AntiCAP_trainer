@@ -7,7 +7,7 @@ MODEL_PATH = r'C:\\Users\\75124\\Desktop\\AntiCAP_trainer\\Text_Click_CAPTCHA\\O
 model = YOLO(MODEL_PATH)
 
 # 图片路径
-image_path = r'C:\Users\75124\Desktop\AntiCAP_trainer\Text_Click_CAPTCHA\Train_Sets\train\images\0d01cfa6a5e321069a970bcdbb4e76d7.png'
+image_path = r'C:\Users\75124\Desktop\AntiCAP_trainer\Text_Click_CAPTCHA\Train_Sets\train\images\0a4dfed2b7c5ead2e6e3ec00d08a5487.jpg'
 
 # 使用YOLO模型进行推理
 results = model(image_path)
