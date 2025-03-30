@@ -100,8 +100,6 @@ AntiCAP_trainer/                          # 主项目文件夹
 
 `训练集的预处理:` 训练前,请确保以下文件夹存在并且为空。
 
-<br>
-
 ```
 Text_Click_CAPTCHA\Train_Sets\train\images\
 Text_Click_CAPTCHA\Train_Sets\train\labels\ 
@@ -109,15 +107,13 @@ Text_Click_CAPTCHA\Train_Sets\val\images\
 Text_Click_CAPTCHA\Train_Sets\val\labels\
 ```
 
-labelme标注完成的 `.json` 和 `.jpg|.png` 文件
+标注完成的 `.json` 和 `.jpg|.png` 文件 , 均存放于 `Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\` 目录
 
-均存放于 `Text_Click_CAPTCHA\Train_Sets\LABELME_DATA\` 目录
 
 程序会自动划分训练集和验证集，并转换成Yolo训练所需的 `.txt`  文件格式。
 
-训练分类检测: `Text_Click_CAPTCHA_Trainer.py` 
 
-模型输出目录:  `Text_Click_CAPTCHA\Out_Model\` 
+`模型输出目录` : `Text_Click_CAPTCHA\Out_Model\` 
 
 <br>
 <br>
