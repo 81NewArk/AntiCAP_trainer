@@ -113,7 +113,7 @@ Text_Click_CAPTCHA\Train_Sets\val\labels\
 程序会自动划分训练集和验证集，并转换成Yolo训练所需的 `.txt`  文件格式。
 
 
-`模型输出目录` : `Text_Click_CAPTCHA\Out_Model\` 
+`模型输出目录: Text_Click_CAPTCHA\Out_Model\` 
 
 <br>
 <br>
