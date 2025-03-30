@@ -91,14 +91,14 @@ AntiCAP_trainer/                          # 主项目文件夹
 
 ## 一.目标分类检测
 
-### （1） labelme 标注方法
+### 1️⃣ labelme 标注方法  
 
 <br>
 
 <img src=Docs/Text_Click_Lambel.png >
 
 
-### （2） 数据集预处理
+### 2️⃣ 数据集预处理
 
 <br>
 
@@ -113,7 +113,7 @@ labelme标注完成的 `.json` 和 `.jpg|.png` 文件均存放于 `Text_Click_CA
 
 程序会自动划分训练集 验证集,和Yolo训练所需要的`.txt` 文件和训练格式
 
-### （3） 训练分类检测
+### 3️⃣ 训练分类检测
 
 <br>
 
@@ -144,6 +144,8 @@ labelme标注完成的 `.json` 和 `.jpg|.png` 文件均存放于 `Text_Click_CA
 # 🐧 交流群
 
 <img src=Docs/QQ_Group.png alt="QQGroup">
+
+
 
 <br>
 <br>
