@@ -104,8 +104,7 @@ Classification_Detection_Train/Train_Sets/val/labels    # 训练前,请确保以
 
 Classification_Detection_Train/Out_Model                # 存放 .json 和 .png|jpg 
 
-# lamebelme标注的图片文件和对应的 .json 文件均存放于该目录
-# 程序会自动划分训练集和验证集
+# lamebelme标注的图片文件和对应的   .json 文件均存放于该目录    程序会自动划分训练集和验证集
 ```
 
 
