@@ -165,3 +165,6 @@ if __name__ == '__main__':
         name='my_first_model',    # 训练模型的名称
         # https://github.com/ultralytics/ultralytics/blob/main/ultralytics/cfg/default.yaml
     )
+    #导出onnx模型
+    model.export(format='onnx', dynamic=True)
+
