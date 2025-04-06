@@ -2,7 +2,7 @@
 
 # AntiCAP_trainer
 
-<img src=docs/logo.jpg alt="logo" width="200" height="200">
+<img src="https://gitee.com/NewArk81/AntiCAP_trainer/raw/main/docs/logo.jpg" alt="logo" width="200" height="200">
 </div>
 
 
@@ -88,7 +88,7 @@ AntiCAP_trainer/                                        # 主目录
 
 <br>
 
-<img src=docs/Text_Click_Lambel.png  width="600" height="400">
+<img src="https://gitee.com/NewArk81/AntiCAP_trainer/raw/main/docs/Text_Click_Lambel.png"  width="600" height="400">
 
 
 ### 训练集的预处理:
@@ -134,7 +134,7 @@ Classification_Detection_Train/Out_Model                # 存放 .json 和 .png|
 
 <div align="center">
 
-<img src=docs/QQ_Group.png alt="QQGroup" width="200" height="200">
+<img src="https://gitee.com/NewArk81/AntiCAP_trainer/raw/main/docs/QQ_Group.png" alt="QQGroup" width="200" height="200">
 
 </div>
 
@@ -148,8 +148,8 @@ Classification_Detection_Train/Out_Model                # 存放 .json 和 .png|
 
 <div align="center">
 
-<img src=docs/Ali.png alt="Ali" width="200" height="200">
-<img src=docs/Wx.png alt="Wx" width="200" height="200">
+<img src="https://gitee.com/NewArk81/AntiCAP_trainer/raw/main/docs/Ali.png" width="200" height="200">
+<img src="https://gitee.com/NewArk81/AntiCAP_trainer/raw/main/docs/Wx.png" alt="Wx" width="200" height="200">
 
 </div>
 
