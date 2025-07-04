@@ -2,7 +2,7 @@
 
 # AntiCAP_trainer
 
-<img src="https://gitee.com/NewArk81/AntiCAP_trainer/raw/main/docs/logo.png" alt="logo" width="200" height="200">
+<img src="https://img.picui.cn/free/2025/07/04/6867f0684ff6e.png" alt="logo" width="200" height="200">
 </div>
 
 
